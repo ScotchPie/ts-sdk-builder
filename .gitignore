@@ -1,0 +1,13 @@
+# npm包
+/node_modules
+yarn.lock
+
+# build产物
+dist
+/types
+
+# eslint
+.eslintcache
+
+# jest
+/coverage
