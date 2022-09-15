@@ -3,7 +3,6 @@
   "version": "2.1.0",
   "main": "index.js",
   "repository": "https://github.com/ScotchPie/ts-sdk-builder.git",
-  "author": "shenzy <shenzy@mail.jj.cn>",
   "license": "MIT",
   "scripts": {
     "dev": "rimraf dist types && cross-env NODE_ENV=development webpack-dev-server --config ./scripts/webpack.dev.js",
